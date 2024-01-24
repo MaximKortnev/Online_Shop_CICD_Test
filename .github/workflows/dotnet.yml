@@ -30,7 +30,7 @@ jobs:
     needs: build
     steps:
     - name: Set up Docker
-      uses: mr-smithers=excellent/docker-build-push@v4
+      uses: mr-smithers-excellent/docker-build-push@v4
       with:
         image: maxkortnev/asp
         registry: docker.io
