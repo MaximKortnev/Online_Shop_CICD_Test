@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "a769d38f-b024-478d-ad54-e2beea15d846",
+    "Login": "Max_123",
+    "Email": "fafccc@gmail.com",
+    "Password": "123456789",
+    "ConfirmPassword": "123456789",
+    "NickName": "Max",
+    "Role": null
+  },
+  {
+    "Id": "f89a20ae-b681-40f5-a8f1-ee6e47079b64",
+    "Login": "Pavel_123",
+    "Email": "124124@xn--j1aeioo.xn--31a",
+    "Password": "roleRepository",
+    "ConfirmPassword": "roleRepository",
+    "NickName": "Pavel",
+    "Role": null
+  },
+  {
+    "Id": "7c4950f4-cdcb-4502-b184-3722e67f12bb",
+    "Login": "Olesya123",
+    "Email": "test@test.ru",
+    "Password": "123456789",
+    "ConfirmPassword": "123456789",
+    "NickName": "Olesya",
+    "Role": null
+  }
+]
